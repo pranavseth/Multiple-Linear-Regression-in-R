@@ -42,3 +42,9 @@ Multiple Linear Regression in R on 50 Startups Dataset
       ggtitle("Profit vs R D Spend (Test Set)")+
       xlab("R D Spend")+
       ylab("Profit")
+
+# Training Set Results
+![](https://github.com/pranavseth/Simple-Linear-Regression-in-R/blob/master/Screenshots/Training%20Set%20results.png)
+
+# Test Set Results
+![](https://github.com/pranavseth/Simple-Linear-Regression-in-R/blob/master/Screenshots/Test%20Set%20results.png)
