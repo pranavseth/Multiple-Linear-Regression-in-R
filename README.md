@@ -44,7 +44,7 @@ Multiple Linear Regression in R on 50 Startups Dataset
       ylab("Profit")
 
 # Training Set Results
-![](https://github.com/pranavseth/Simple-Linear-Regression-in-R/blob/master/Screenshots/Training%20Set%20results.png)
+![](https://github.com/pranavseth/Multiple-Linear-Regression-in-R/blob/master/Screenshots/Training%20Set.png)
 
 # Test Set Results
-![](https://github.com/pranavseth/Simple-Linear-Regression-in-R/blob/master/Screenshots/Test%20Set%20results.png)
+![](https://github.com/pranavseth/Multiple-Linear-Regression-in-R/blob/master/Screenshots/Test%20Set.png)
